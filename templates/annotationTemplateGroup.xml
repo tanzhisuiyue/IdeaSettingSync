@@ -1,0 +1,12 @@
+<templateSet group="annotationTemplateGroup">
+  <template name="class" value="/**&#10; * @title: $file_name$&#10; * @package $package_name$&#10; * @description: &#10; * @author: $author$&#10; * @date: $date$ $time$&#10; * @version: V1.0&#10;**/" description="类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="file_name" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="package_name" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <variable name="author" expression="" defaultValue="&quot;wxg&quot;" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
