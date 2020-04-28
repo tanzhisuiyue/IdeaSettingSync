@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/hengyunabc/java-telnet-client-demo" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xiaobingby/Exam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\sagacloud" />
