@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/infiniteautomation/modbus4j" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/BossDing/java-books-collections.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\sagacloud" />
