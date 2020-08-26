@@ -70,9 +70,13 @@
           <option name="url" value="https://github.com/376725863/EMS_Interface_Platform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/andsel/moquette.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\sagacloud\jq" />
+    <option name="cloneParentDir" value="D:\sagacloud" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
