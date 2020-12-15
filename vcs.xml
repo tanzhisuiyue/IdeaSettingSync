@@ -88,7 +88,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://39.106.8.246:3003" />
-          <option name="userName" value="lijingqiang" />
+          <option name="userName" value="wangxuguang" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.sagacloud.cn/lijingqiang/EMS_Interface_Platform" />
@@ -96,7 +96,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.sagacloud.cn" />
-          <option name="userName" value="lijingqiang" />
+          <option name="userName" value="wangxuguang" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/DuGuQiuBai/Java" />
@@ -110,9 +110,13 @@
           <option name="url" value="https://github.com/brianway/spring-learning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://39.106.8.246:3003/wuwenjun/ems-push-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\sagacloud\persagy" />
+    <option name="cloneParentDir" value="E:\sagacloud" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
