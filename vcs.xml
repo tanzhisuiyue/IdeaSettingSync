@@ -114,9 +114,13 @@
           <option name="url" value="http://39.106.8.246:3003/wuwenjun/ems-push-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.100.214/platform_java/ems-push-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\sagacloud" />
+    <option name="cloneParentDir" value="E:\persagy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
