@@ -126,6 +126,10 @@
           <option name="url" value="http://192.168.100.214:5580" />
           <option name="userName" value="wangxuguang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.100.214:5580/platform_java/magnus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\persagy" />
