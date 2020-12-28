@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/sagacloud/EMS_Interface_Platform" startUpFlag="FIRST" />
     <entry projectPath="E:/persagy/ems-push-service" startUpFlag="FIRST" />
     <entry projectPath="E:/persagy/magnus" startUpFlag="FIRST" />
     <entry projectPath="E:/persagy/scanTxtToExcel" startUpFlag="FIRST" />
