@@ -9,5 +9,6 @@
     <entry projectPath="E:/sagacloud/ems-push-service" startUpFlag="FIRST" />
     <entry projectPath="E:/sagacloud/jq/collectTOhbase" startUpFlag="FIRST" />
     <entry projectPath="E:/sagacloud/persagy/EMS_Interface_Platform" startUpFlag="FIRST" />
+    <entry projectPath="E:/sagacloud/persagy/EMS_Interface_Platform - bacnet" startUpFlag="FIRST" />
   </component>
 </application>
