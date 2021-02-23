@@ -1,6 +1,16 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/sagacloud/EMS_Interface_Platform" startUpFlag="FIRST" />
+    <entry projectPath="E:/persagy/chapter1-1" startUpFlag="FIRST" />
+    <entry projectPath="E:/persagy/ems-push-service" startUpFlag="FIRST" />
+    <entry projectPath="E:/persagy/ems_interface_platform_boot" startUpFlag="FIRST" />
+    <entry projectPath="E:/persagy/magnus" startUpFlag="FIRST" />
+    <entry projectPath="E:/persagy/scanTxtToExcel" startUpFlag="FIRST" />
+    <entry projectPath="E:/sagacloud/EMS_Interface_Platform - 副本 (4)" startUpFlag="FIRST" />
+    <entry projectPath="E:/sagacloud/ems-push-service" startUpFlag="FIRST" />
+    <entry projectPath="E:/sagacloud/jq/collectTOhbase" startUpFlag="FIRST" />
     <entry projectPath="E:/sagacloud/persagy/EMS_Interface_Platform" startUpFlag="FIRST" />
+    <entry projectPath="E:/sagacloud/persagy/EMS_Interface_Platform - bacnet" startUpFlag="FIRST" />
   </component>
 </application>
