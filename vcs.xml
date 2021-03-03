@@ -134,6 +134,10 @@
           <option name="url" value="http://192.168.100.214:5580/platform_java/ems_interface_platform_boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/levinzhang1981/spring-in-action-5-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\persagy" />
